@@ -1,7 +1,10 @@
 torch
-numpy<2
+numpy
 transformers
 datasets
 fasttext
 bert_score
 networkx
+joblib
+sacrebleu
+rouge-score
